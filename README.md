@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi, I'm yy 👋
 
+- 🎓 Master's student, USTC (2025–present)
+- 🧩 Former captain of Scr1w & Member of W&M
+- 🍎 macOS · 🪄 Raycast
+
+Thanks for visiting! 🚀
 <!--
 **ScH01ar/ScH01ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
